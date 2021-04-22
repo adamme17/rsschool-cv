@@ -13,9 +13,11 @@ I am a student at the Faculty of Applied Mathematics and Computer Science of the
 * Java
 * Git
 # Experience
-### Car Fleet
-Study group project - https://github.com/fpmi-tp2021/labrabota5-gr13-1-lab5-group13-1
-My GitHub - https://github.com/adamme17/
+### Car Fleet (Study group project)
+* Tech stack: C, Travis-Ci, GitHub Project, SQLite, GTest
+* Dev&DB
+* Link: https://github.com/fpmi-tp2021/labrabota5-gr13-1-lab5-group13-1
+### My GitHub - https://github.com/adamme17/
 # Education 
 * Belarusian State University
 * Faculty of Applied Mathematics and Computer Science
