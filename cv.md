@@ -12,11 +12,9 @@ I am a student at the Faculty of Applied Mathematics and Computer Science of the
 * C#
 * Java
 * Git
-# GitHub - https://github.com/adamme17/
 # Experience
-(for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+Study group project - https://github.com/fpmi-tp2021/labrabota5-gr13-1-lab5-group13-1
+My GitHub - https://github.com/adamme17/
 # Education 
 * Belarusian State University
 * Faculty of Applied Mathematics and Computer Science
