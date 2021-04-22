@@ -5,9 +5,8 @@
 * Phone: +375 (29) 120-25-26 (A1/Velcom)
 * Telegram: @addam123
 * Discord: Adam#5564  
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+# Summary 
+I am a student at the Faculty of Applied Mathematics of the Belarusian State University, the specialty Applied computer science. I have been doing programming for two years and during that time I had experience with C ++ / C # and Java. I am attracted by iOS development and Apple's eco-system in general. Earlier I tried to learn Swift and Objective-C languages by myself. During this course, I want to make sure that iOS development is what suits me, develop my programming skills, and learn a lot from people who work in this area.
 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
 5. Code examples (LATEST)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
