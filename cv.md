@@ -12,7 +12,7 @@ I am a student at the Faculty of Applied Mathematics and Computer Science of the
 * C#
 * Java
 * Git
-5. Code examples (LATEST)
+# GitHub - https://github.com/adamme17/
 # Experience
 (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
